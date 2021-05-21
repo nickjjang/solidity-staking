@@ -1,0 +1,12 @@
+{
+  "name": "staking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0",
+    "@openzeppelin/test-helpers": "^0.5.11",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "truffle": "^5.3.7"
+  }
+}
